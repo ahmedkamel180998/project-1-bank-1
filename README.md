@@ -12,7 +12,7 @@ This C++ project is a simple console-based Bank Management System. It allows use
 This C++ simple console-based Bank Management System project was created at the end of the [7th course](https://programmingadvices.com/p/algorithms-and-problem-solving-level-3) from the Roadmap for General Foundation in Programming @ [Programming Advices](https://programmingadvices.com/).
 
 ## Live Demo
-https://github.com/user-attachments/assets/8e7707f5-044a-4a4b-bd98-c34e7ed88bde
+https://github.com/user-attachments/assets/94e30e63-49fe-4ffc-b803-e48c7bc343c5
 
 ## Features
 - **Client List:** Display a list of all clients, including account number, pin code, name, phone, and account balance.
