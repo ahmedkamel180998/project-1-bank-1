@@ -40,5 +40,5 @@ https://github.com/user-attachments/assets/94e30e63-49fe-4ffc-b803-e48c7bc343c5
 3. **Client Data:** Each client record contains an account number, pin code, name, phone number, and balance, which are managed through the system's options.
 
 ## File Structure
-`main.cpp`: The main program file containing the source code for the Bank Management System.
-`clients.txt`: The data file where client information is stored. This file is created automatically when the program runs.
+### `main.cpp`: The main program file containing the source code for the Bank Management System.
+### `clients.txt`: The data file where client information is stored. This file is created automatically when the program runs.
